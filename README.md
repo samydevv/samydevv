@@ -90,7 +90,7 @@ Dynamodb
 ---
 <div align="center" style="font-family: 'Gabriela', serif; color:#408ded">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samydevv&theme=one-dark-pro&background=000000&border=FFFFFF&stroke=408DED&ring=619DE8&currStreakNum=408DED&sideNums=408DED&currStreakLabel=619DE8&sideLabels=619DE8&dates=619DE8&excludeDaysLabel=619DE8)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samydevv&theme=one-dark-pro&background=000000&border=FFFFFF&stroke=408DED&ring=619DE8&currStreakNum=408DED&sideNums=408DED&currStreakLabel=619DE8&sideLabels=619DE8&dates=619DE8&excludeDaysLabel=619DE8)
 
 </div>
 
