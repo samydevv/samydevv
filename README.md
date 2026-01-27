@@ -90,8 +90,9 @@ Dynamodb
 ---
 <div align="center" style="font-family: 'Gabriela', serif; color:#FFFFFF">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samydevv&theme=one-dark-pro&background=000000&border=FFFFFF&stroke=408DED&ring=619DE8&currStreakNum=408DED&sideNums=408DED&currStreakLabel=619DE8&sideLabels=619DE8&dates=619DE8&excludeDaysLabel=619DE8)
-
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samydevv&theme=dark&show_icons=true" />
+</a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:667eea,100:764ba2&height=100&section=footer"/>
