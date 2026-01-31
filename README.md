@@ -88,11 +88,6 @@ Dynamodb
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samydevv&theme=github-compact&hide_border=true&line=408ded&point=FFFFFF)](https://github.com/samydevv)
 
 ---
-<div align="center" style="font-family: 'Gabriela', serif; color:#FFFFFF">
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samydevv&theme=dark&show_icons=true" />
-</a>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:667eea,100:764ba2&height=100&section=footer"/>
