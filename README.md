@@ -89,5 +89,6 @@ Dynamodb
 
 ---
 
+![snake gif](https://github.com/samydevv/samydevv/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:667eea,100:764ba2&height=100&section=footer"/>
