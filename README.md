@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/robinbraemer">
+<!-- <a href="https://github.com/samydevv">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:408ded,100:764ba2&height=120&section=header&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4e96f0,100:764ba2&height=120&section=header&animation=fadeIn"/>
   <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:8ab7ee&height=120&section=header&animation=fadeIn"/>
 </picture>
-</a>
+</a> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gabriela&duration=7000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=115&lines=Software+%26+Data+Engineer;Tech+Enthusiast+;Love+to+build+new+things+)](https://git.io/typing-svg)
 
@@ -88,7 +88,10 @@ Dynamodb
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samydevv&theme=github-compact&hide_border=true&line=408ded&point=FFFFFF)](https://github.com/samydevv)
 
 ---
-
+<div align="center">
+  
 ![snake gif](https://github.com/samydevv/samydevv/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:667eea,100:764ba2&height=100&section=footer"/>
+</div>
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=0:667eea,100:764ba2&height=100&section=footer"/> -->
