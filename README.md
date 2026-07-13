@@ -7,7 +7,7 @@
   <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:8ab7ee&height=120&section=header&animation=fadeIn"/>
 </picture>
 </a> -->
-
+[![My GitFut card](https://gitfut.com/samydevv.png?country=DE)](https://gitfut.com/samydevv)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gabriela&duration=7000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=115&lines=Software+%26+Data+Engineer;Tech+Enthusiast+;Love+to+build+new+things+)](https://git.io/typing-svg)
 
 
